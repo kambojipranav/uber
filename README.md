@@ -3,7 +3,6 @@
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![XGBoost](https://img.shields.io/badge/Model-XGBoost-green?logo=python)](https://xgboost.readthedocs.io/)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
 
 > ✨ An intelligent time series forecasting dashboard that predicts hourly Uber trips using advanced machine learning.
 
